@@ -1,0 +1,50 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "name": "mysql",
+      "type": "com.springboot.mybatisplus.config.MysqlConfig"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "name": "mysql.driver",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "defaultValue": 0,
+      "name": "mysql.initial-size",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "defaultValue": 0,
+      "name": "mysql.max-active",
+      "type": "java.lang.Integer"
+    },
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "defaultValue": 0,
+      "name": "mysql.max-wait",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "name": "mysql.password",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "name": "mysql.url",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.springboot.mybatisplus.config.MysqlConfig",
+      "name": "mysql.username",
+      "type": "java.lang.String"
+    }
+  ]
+}
